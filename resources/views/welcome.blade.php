@@ -38,14 +38,14 @@
     <title>Homepage | Malam Mas Inti</title>
 
     {{-- Meta --}}
-    <meta name="og:title" property="og:title" content="@yield('title') | PT Malam Mas Inti" />
+    <meta name="og:title" property="og:title" content="Home | PT Malam Mas Inti" />
     <meta name="og:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:image" property="og:image" content="{!! asset('webpage/ptmmi/cover.php') !!}" />
     <meta name="og:description" property="og:description"
         content="PT Malam Mas Inti is a full-service construction company that specializes in residential, industrial and commercial projects. We have over 20 years of experience and a team of experienced and professional builders. We are committed to providing our clients with the highest quality construction services at competitive prices." />
-    <meta name="twitter:card" content="@yield('title') | PT Malam Mas Inti" />
-    <meta name="twitter:title" property="og:title" content="@yield('title') | PT Malam Mas Inti" />
+    <meta name="twitter:card" content="Home | PT Malam Mas Inti" />
+    <meta name="twitter:title" property="og:title" content="Home | PT Malam Mas Inti" />
     <meta name="twitter:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="twitter:type" property="og:type" content="website" />
     <meta name="twitter:image" property="og:image" content="{!! asset('webpage/ptmmi/cover.php') !!}" />
