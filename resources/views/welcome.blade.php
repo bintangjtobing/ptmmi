@@ -6,7 +6,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="author" content="Boxity Central Indonesia">
-    <meta name="description" content="">
+    <meta name="description"
+        content="PT Malam Mas Inti is a full-service construction company that specializes in residential, industrial and commercial projects. We have over 20 years of experience and a team of experienced and professional builders. We are committed to providing our clients with the highest quality construction services at competitive prices.">
 
     <!-- Font Imports -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -28,13 +29,39 @@
     <link rel="stylesheet" href="{!! asset('webpage/demos/construction/construction.css?' . rand(10000, 99999)) !!}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href={!! asset('webpage/css/custom.css?' . rand(10000, 99999)) !!}">
+    <link rel="stylesheet" href="{!! asset('webpage/css/custom.css?' . rand(10000, 99999)) !!}">
     <link rel="shortcut icon" href="{!! asset('webpage/ptmmi/just-logo.png') !!}" type="image/png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Document Title
  ============================================= -->
     <title>Homepage | Malam Mas Inti</title>
+
+    {{-- Meta --}}
+    <meta name="og:title" property="og:title" content="@yield('title') | PT Malam Mas Inti" />
+    <meta name="og:url" property="og:url" content="{{ Request::url() }}" />
+    <meta name="og:type" property="og:type" content="website" />
+    <meta name="og:image" property="og:image" content="{!! asset('webpage/ptmmi/cover.php') !!}" />
+    <meta name="og:description" property="og:description"
+        content="PT Malam Mas Inti is a full-service construction company that specializes in residential, industrial and commercial projects. We have over 20 years of experience and a team of experienced and professional builders. We are committed to providing our clients with the highest quality construction services at competitive prices." />
+    <meta name="twitter:card" content="@yield('title') | PT Malam Mas Inti" />
+    <meta name="twitter:title" property="og:title" content="@yield('title') | PT Malam Mas Inti" />
+    <meta name="twitter:url" property="og:url" content="{{ Request::url() }}" />
+    <meta name="twitter:type" property="og:type" content="website" />
+    <meta name="twitter:image" property="og:image" content="{!! asset('webpage/ptmmi/cover.php') !!}" />
+    <meta name="twitter:description" property="og:description"
+        content="PT Malam Mas Inti is a full-service construction company that specializes in residential, industrial and commercial projects. We have over 20 years of experience and a team of experienced and professional builders. We are committed to providing our clients with the highest quality construction services at competitive prices." />
+    <link rel="canonical" href="{{ Request::url() }}/" />
+    <link rel="shortcut icon" href="{!! asset('webpage/ptmmi/just-logo.png') !!}" type="image/png" type="image/png" sizes="64x64" />
+    <meta name="og:email" content="info@boxity.id" />
+    <meta name="og:phone_number" content="08126030120" />
+    <meta name="og:latitude" content="3.573395" />
+    <meta name="og:longitude" content="98.631085" />
+    <meta name="og:street-address" content="Jalan Abadi Komplek Abadi Palace Tanjung Rejo, Medan Sunggal " />
+    <meta name="og:locality" content="Sumatera Utara" />
+    <meta name="og:region" content="ID" />
+    <meta name="og:postal-code" content="20122" />
+    <meta name="og:country-name" content="Indonesia" />
 
 </head>
 
@@ -73,9 +100,8 @@
                             <ul class="top-links-container">
                                 <li class="top-links-item"><a href="#">Locations</a>
                                     <ul class="top-links-sub-menu">
-                                        <li class="top-links-item"><a href="#">San Francisco</a></li>
-                                        <li class="top-links-item"><a href="#">London</a></li>
-                                        <li class="top-links-item"><a href="#">Amsterdam</a></li>
+                                        <li class="top-links-item"><a
+                                                href="https://goo.gl/maps/92ipKeN8rdDrATtTA">Medan</a></li>
                                     </ul>
                                 </li>
                                 <li class="top-links-item"><a href="faqs">FAQs</a></li>
@@ -99,7 +125,7 @@
      ============================================= -->
                     <div id="logo" class="ms-auto ms-lg-0 me-lg-auto">
                         <a href="/">
-                            <img class="logo-default img-fluid" style="max-width: 400px;padding: 10px 0;"
+                            <img class="logo-default img-fluid" style="max-width: 300px;padding: 10px 0;"
                                 srcset="{!! asset('webpage/ptmmi/logo-long.png') !!}" src="{!! asset('webpage/ptmmi/logo-long.png') !!}"
                                 alt="Malam Mas Inti Logo">
                         </a>
@@ -112,21 +138,21 @@
                                 <i class="i-plain bi-telephone m-0"></i>
                                 <div class="he-text">
                                     Call Us
-                                    <span>(62) 813 6666 6323</span>
+                                    <span>(62) 812 6030 120</span>
                                 </div>
                             </li>
                             <li>
                                 <i class="i-plain bi-envelope m-0"></i>
                                 <div class="he-text">
                                     Email Us
-                                    <span>info@malammasinti.com</span>
+                                    <span>ptmalammasintipusat@gmail.com</span>
                                 </div>
                             </li>
                             <li>
                                 <i class="i-plain bi-pin m-0"></i>
                                 <div class="he-text">
                                     Our Location
-                                    <span>Jl Talawi No 2, Medan Kota</span>
+                                    <span>Jl Abadi Komp. Abadi Palace</span>
                                 </div>
                             </li>
                         </ul>
@@ -167,13 +193,10 @@
                                                 <div>Medan</div>
                                             </a></li>
                                         <li class="menu-item"><a class="menu-link" href="#projects-3">
-                                                <div>Palembang</div>
+                                                <div>Binjai</div>
                                             </a></li>
                                         <li class="menu-item"><a class="menu-link" href="#projects">
-                                                <div>Jakarta</div>
-                                            </a></li>
-                                        <li class="menu-item"><a class="menu-link" href="#projects-5">
-                                                <div>Bandung</div>
+                                                <div>Deli Serdang</div>
                                             </a></li>
                                     </ul>
                                 </li>
@@ -272,7 +295,8 @@
                                     construction needs.</span>
                             </div>
                             <div class="col-12 col-lg-auto mt-4 mt-lg-0">
-                                <a href="#" class="button button-large button-circle button-black m-0">Call us
+                                <a href="https://wa.me/628126030120" target="_blank"
+                                    class="button button-large button-circle button-black m-0">Call us
                                     now</a>
                             </div>
                         </div>
@@ -796,21 +820,21 @@
                                                 <div class="col-md-6">
                                                     <address>
                                                         <strong>Headquarters:</strong><br>
-                                                        Jl Talawi No. 2, Teladan Barat<br>
-                                                        Medan Kota, Sumatera Utara
+                                                        Jalan Abadi Komplek Abadi Palace<br>
+                                                        Tanjung Rejo, Medan Sunggal
                                                     </address>
                                                 </div>
                                                 <div class="col-md-6">
-                                                    <abbr title="Phone Number"><strong>Phone:</strong></abbr> (62) 813
-                                                    6666 6323<br>
+                                                    <abbr title="Phone Number"><strong>Phone:</strong></abbr> (62) 812
+                                                    6030 120<br>
                                                     <abbr title="Email Address"><strong>Email:</strong></abbr>
-                                                    info@malammasinti.com
+                                                    ptmalammasintipusat@gmail.com
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-5">
                                             <iframe
-                                                src="https://www.google.com/maps/embed?pb=!4v1692434380860!6m8!1m7!1si-lTtrji9WIg7IGFX4AcHA!2m2!1d3.563865695514584!2d98.69326203994147!3f152.65638558608876!4f-2.057926447168427!5f0.7820865974627469"
+                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3982.0612271261384!2d98.62851017624882!3d3.573394496400777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30312fcb44c2f58b%3A0x5259529b65da1dee!2sAbadi%20Palace!5e0!3m2!1sen!2sid!4v1692514584054!5m2!1sen!2sid"
                                                 width="600" height="450" style="border:0;" allowfullscreen=""
                                                 loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                         </div>
@@ -1054,14 +1078,14 @@
                                     <div class="col-12">
                                         <div class="footer-big-contacts">
                                             <span>Call Us:</span>
-                                            (62) 813 6666 6323
+                                            (62) 812 6030 120
                                         </div>
                                     </div>
 
                                     <div class="col-12">
                                         <div class="footer-big-contacts">
                                             <span>Send an Email:</span>
-                                            info@malammasinti.com
+                                            ptmalammasintipusat@gmail.com
                                         </div>
                                     </div>
                                 </div>
