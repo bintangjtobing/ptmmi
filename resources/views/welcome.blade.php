@@ -309,7 +309,8 @@
                         <div class="col-sm-6 col-lg-4">
                             <div class="feature-box media-box">
                                 <div class="fbox-media">
-                                    <img class="rounded" src="{!! asset('webpage/demos/construction/images/services/1.jpg') !!}" alt="Why choose Us?">
+                                    <img class="rounded" src="{!! asset('webpage/demos/construction/images/services/1.jpg') !!}"
+                                        alt="Malam Mas Inti -Why choose Us?">
                                 </div>
                                 <div class="fbox-content px-0">
                                     <h3>Safety & Skilled Professionals.<span class="subtitle">Your Property in Good
@@ -325,7 +326,8 @@
                         <div class="col-sm-6 col-lg-4">
                             <div class="feature-box media-box">
                                 <div class="fbox-media">
-                                    <img class="rounded" src="{!! asset('webpage/images/services/1.jpg') !!}" alt="Effective Planning">
+                                    <img class="rounded" src="{!! asset('webpage/images/services/1.jpg') !!}"
+                                        alt="Malam Mas Inti -Effective Planning">
                                 </div>
                                 <div class="fbox-content px-0">
                                     <h3>On-time delivery & Effective Planning.<span class="subtitle">Construction
@@ -341,7 +343,8 @@
                         <div class="col-sm-6 col-lg-4">
                             <div class="feature-box media-box">
                                 <div class="fbox-media">
-                                    <img class="rounded" src="{!! asset('webpage/demos/construction/images/services/2.jpg') !!}" alt="Why choose Us?">
+                                    <img class="rounded" src="{!! asset('webpage/demos/construction/images/services/2.jpg') !!}"
+                                        alt="Malam Mas Inti -Why choose Us?">
                                 </div>
                                 <div class="fbox-content px-0">
                                     <h3>Flexibility & Risk Management<span class="subtitle">We have got you
@@ -365,7 +368,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <img class="rounded-circle mx-auto w-auto mb-4" src="{!! asset('webpage/images/testimonials/1.jpg') !!}"
-                                        width="64" height="64" alt="Customer Testimonails">
+                                        width="64" height="64" alt="Malam Mas Inti -Customer Testimonails">
                                     <h3 class="mb-4 lh-base fw-normal font-secondary">Seamlessly Lorem, ipsum dolor sit
                                         amet consectetur adipisicing elit. Quia rerum porro est delectus ad in vitae
                                         neque nostrum nesciunt.</h3>
@@ -381,7 +384,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <img class="rounded-circle mx-auto w-auto mb-4" src="{!! asset('webpage/images/testimonials/2.jpg') !!}"
-                                        width="64" height="64" alt="Customer Testimonails">
+                                        width="64" height="64" alt="Malam Mas Inti -Customer Testimonails">
                                     <h3 class="mb-4 lh-base fw-normal font-secondary">Seamlessly conceptualize
                                         multimedia based web services for optimal human capital. Collaboratively
                                         evisculate e-business value.</h3>
@@ -397,7 +400,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <img class="rounded-circle mx-auto w-auto mb-4" src="{!! asset('webpage/images/testimonials/3.jpg') !!}"
-                                        width="64" height="64" alt="Customer Testimonails">
+                                        width="64" height="64" alt="Malam Mas Inti -Customer Testimonails">
                                     <h3 class="mb-4 lh-base fw-normal font-secondary">Lorem, ipsum dolor sit amet
                                         consectetur adipisicing elit. Molestias facilis ea voluptatem cum.</h3>
                                 </div>
@@ -424,7 +427,7 @@
                             <div class="feature-box fbox-plain">
                                 <div class="fbox-icon">
                                     <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/building.png') !!}"
-                                            alt="Concrete Developments"></a>
+                                            alt="Malam Mas Inti -Concrete Developments"></a>
                                 </div>
                                 <div class="fbox-content">
                                     <h3>Experience and expertise</h3>
@@ -439,7 +442,7 @@
                             <div class="feature-box fbox-plain">
                                 <div class="fbox-icon">
                                     <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/bank.png') !!}"
-                                            alt="Finance Assistance"></a>
+                                            alt="Malam Mas Inti -Finance Assistance"></a>
                                 </div>
                                 <div class="fbox-content">
                                     <h3>Quality of work</h3>
@@ -453,7 +456,7 @@
                             <div class="feature-box fbox-plain">
                                 <div class="fbox-icon">
                                     <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/drawer.png') !!}"
-                                            alt="Interiorly Designed"></a>
+                                            alt="Malam Mas Inti -Interiorly Designed"></a>
                                 </div>
                                 <div class="fbox-content">
                                     <h3>On-time delivery</h3>
@@ -467,7 +470,7 @@
                             <div class="feature-box fbox-plain">
                                 <div class="fbox-icon">
                                     <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/paper-money.png') !!}"
-                                            alt="Cost Effective Solutions"></a>
+                                            alt="Malam Mas Inti -Cost Effective Solutions"></a>
                                 </div>
                                 <div class="fbox-content">
                                     <h3>Flexibility</h3>
@@ -480,7 +483,8 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="feature-box fbox-plain">
                                 <div class="fbox-icon">
-                                    <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}" alt="Smart Builders"></a>
+                                    <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}"
+                                            alt="Malam Mas Inti -Smart Builders"></a>
                                 </div>
                                 <div class="fbox-content">
                                     <h3>Good communication</h3>
@@ -494,7 +498,7 @@
                             <div class="feature-box fbox-plain">
                                 <div class="fbox-icon">
                                     <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/paint-brush.png') !!}"
-                                            alt="Quality Infrastructure"></a>
+                                            alt="Malam Mas Inti -Quality Infrastructure"></a>
                                 </div>
                                 <div class="fbox-content">
                                     <h3>Safety</h3>
@@ -517,7 +521,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-media pf-icons">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/1.jpg') !!}" alt="The Atmosphere">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/1.jpg') !!}" alt="Malam Mas Inti -The Atmosphere">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -537,7 +541,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/2.jpg') !!}" alt="Wavelength Structure">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/2.jpg') !!}" alt="Malam Mas Inti -Wavelength Structure">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -557,7 +561,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-uielements">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/3.jpg') !!}" alt="Greenhouse Garden">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/3.jpg') !!}" alt="Malam Mas Inti -Greenhouse Garden">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -577,7 +581,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/4.jpg') !!}" alt="Industrial Hub">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/4.jpg') !!}" alt="Malam Mas Inti -Industrial Hub">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -597,7 +601,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-media">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/5.jpg') !!}" alt="Corporate Headquarters">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/5.jpg') !!}" alt="Malam Mas Inti -Corporate Headquarters">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -617,7 +621,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/6.jpg') !!}" alt="Space Station">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/6.jpg') !!}" alt="Malam Mas Inti -Space Station">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -637,7 +641,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-icons">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/7.jpg') !!}" alt="Bent Architecture">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/7.jpg') !!}" alt="Malam Mas Inti -Bent Architecture">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -657,7 +661,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="{!! asset('webpage/demos/construction/images/projects/8.jpg') !!}" alt="Lakeview Center">
+                                <img src="{!! asset('webpage/demos/construction/images/projects/8.jpg') !!}" alt="Malam Mas Inti -Lakeview Center">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -891,17 +895,17 @@
 
                             <ul class="clients-grid row row-cols-2 row-cols-sm-3 mb-0">
                                 <li class="grid-item" style="padding: 20px;"><a href="#"><img
-                                            src="{!! asset('webpage/images/clients/1.png') !!}" alt="Clients"></a></li>
+                                            src="{!! asset('webpage/images/clients/1.png') !!}" alt="Malam Mas Inti -Clients"></a></li>
                                 <li class="grid-item" style="padding: 20px;"><a href="#"><img
-                                            src="{!! asset('webpage/images/clients/2.png') !!}" alt="Clients"></a></li>
+                                            src="{!! asset('webpage/images/clients/2.png') !!}" alt="Malam Mas Inti -Clients"></a></li>
                                 <li class="grid-item" style="padding: 20px;"><a href="#"><img
-                                            src="{!! asset('webpage/images/clients/3.png') !!}" alt="Clients"></a></li>
+                                            src="{!! asset('webpage/images/clients/3.png') !!}" alt="Malam Mas Inti -Clients"></a></li>
                                 <li class="grid-item" style="padding: 20px;"><a href="#"><img
-                                            src="{!! asset('webpage/images/clients/4.png') !!}" alt="Clients"></a></li>
+                                            src="{!! asset('webpage/images/clients/4.png') !!}" alt="Malam Mas Inti -Clients"></a></li>
                                 <li class="grid-item" style="padding: 20px;"><a href="#"><img
-                                            src="{!! asset('webpage/images/clients/5.png') !!}" alt="Clients"></a></li>
+                                            src="{!! asset('webpage/images/clients/5.png') !!}" alt="Malam Mas Inti -Clients"></a></li>
                                 <li class="grid-item" style="padding: 20px;"><a href="#"><img
-                                            src="{!! asset('webpage/images/clients/6.png') !!}" alt="Clients"></a></li>
+                                            src="{!! asset('webpage/images/clients/6.png') !!}" alt="Malam Mas Inti -Clients"></a></li>
                             </ul>
                         </div>
 
@@ -916,7 +920,8 @@
                                     <div class="entry">
                                         <div class="entry-image">
                                             <a href="{!! asset('webpage/demos/construction/images/blog/5.jpg') !!}" data-lightbox="image"><img
-                                                    src="{!! asset('webpage/demos/construction/images/blog/5.jpg') !!}" alt="Standard Post with Image"></a>
+                                                    src="{!! asset('webpage/demos/construction/images/blog/5.jpg') !!}"
+                                                    alt="Malam Mas Inti -Standard Post with Image"></a>
                                         </div>
                                         <div class="entry-title title-sm text-transform-none">
                                             <h3><a href="#">Upcoming Projects in Australia</a></h3>
@@ -943,15 +948,18 @@
                                                         <div class="slide"><a href="{!! asset('webpage/demos/construction/images/blog/2.jpg') !!}"
                                                                 data-lightbox="gallery-item"><img
                                                                     src="{!! asset('webpage/demos/construction/images/blog/2.jpg') !!}"
-                                                                    alt="Standard Post with Gallery"></a></div>
+                                                                    alt="Malam Mas Inti -Standard Post with Gallery"></a>
+                                                        </div>
                                                         <div class="slide"><a href="{!! asset('webpage/demos/construction/images/blog/1.jpg') !!}"
                                                                 data-lightbox="gallery-item"><img
                                                                     src="{!! asset('webpage/demos/construction/images/blog/1.jpg') !!}"
-                                                                    alt="Standard Post with Gallery"></a></div>
+                                                                    alt="Malam Mas Inti -Standard Post with Gallery"></a>
+                                                        </div>
                                                         <div class="slide"><a href="{!! asset('webpage/demos/construction/images/blog/3.jpg') !!}"
                                                                 data-lightbox="gallery-item"><img
                                                                     src="{!! asset('webpage/demos/construction/images/blog/3.jpg') !!}"
-                                                                    alt="Standard Post with Gallery"></a></div>
+                                                                    alt="Malam Mas Inti -Standard Post with Gallery"></a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -976,7 +984,8 @@
                                     <div class="entry">
                                         <div class="entry-image">
                                             <a href="{!! asset('webpage/demos/construction/images/blog/4.jpg') !!}" data-lightbox="image"><img
-                                                    src="{!! asset('webpage/demos/construction/images/blog/4.jpg') !!}" alt="Standard Post with Image"></a>
+                                                    src="{!! asset('webpage/demos/construction/images/blog/4.jpg') !!}"
+                                                    alt="Malam Mas Inti -Standard Post with Image"></a>
                                         </div>
                                         <div class="entry-title title-sm text-transform-none">
                                             <h3><a href="#">Global Excellence Construction Award</a></h3>
@@ -1008,7 +1017,7 @@
 
                         <div class="row">
                             <div class="col-lg-7">
-                                <img src="{!! asset('webpage/demos/construction/images/services/bottom-trust.jpg') !!}" alt="Bottom Trust">
+                                <img src="{!! asset('webpage/demos/construction/images/services/bottom-trust.jpg') !!}" alt="Malam Mas Inti -Bottom Trust">
                             </div>
                             <div class="col-lg-5 mt-4">
                                 <div class="heading-block border-bottom-0">
@@ -1045,7 +1054,8 @@
                         <div class="col-lg-9">
                             <div class="widget">
 
-                                <img src="{!! asset('webpage/ptmmi/logo-long.png') !!}" alt="Image" class="alignleft"
+                                <img src="{!! asset('webpage/ptmmi/logo-long.png') !!}" alt="Malam Mas Inti - Footer Logo"
+                                    class="alignleft"
                                     style="/*! margin-top: 8px; */ /*! padding-right: 18px; */ /*! border-right: 1px solid #4A4A4A; */max-width: 300px;padding: 10px 0;">
 
                                 <p style="padding-top: 20px;">We believe in <strong>Simple</strong>,
