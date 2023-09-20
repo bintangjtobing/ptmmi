@@ -1,8 +1,8 @@
 @extends('welcome')
-@section('title', 'Homepage')
+@section('title', 'About Us')
 @section('content')
     <!-- Page Title
-                                                                                                      ============================================= -->
+                                                                                                          ============================================= -->
     <section class="page-title page-title-center bg-transparent">
         <div class="container">
             <div class="page-title-row">
@@ -24,7 +24,7 @@
     </section><!-- .page-title end -->
 
     <!-- Content
-                                                                                                      ============================================= -->
+                                                                                                          ============================================= -->
     <section id="content">
         <div class="content-wrap">
             <div class="container">

@@ -306,7 +306,8 @@
                                             <i class="fa-brands fa-facebook-f"></i>
                                             <i class="fa-brands fa-facebook-f"></i>
                                         </a>
-                                        <a href="#"><small class="d-block"><strong>Like us</strong><br>on
+                                        <a href="/social/facebook"><small class="d-block"><strong>Like
+                                                    us</strong><br>on
                                                 Facebook</small></a>
                                     </div>
                                     <div class="col-12 col-sm-6">
@@ -314,7 +315,8 @@
                                             <i class="fa-brands fa-instagram"></i>
                                             <i class="fa-brands fa-instagram"></i>
                                         </a>
-                                        <a href="#"><small class="d-block"><strong>Follow us</strong><br>on
+                                        <a href="/social/instagram"><small class="d-block"><strong>Follow
+                                                    us</strong><br>on
                                                 Instagram</small></a>
                                     </div>
                                 </div>

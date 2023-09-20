@@ -29,9 +29,15 @@ Route::prefix('/social')->group(function () {
     Route::get('pinterest', function () {
         return Redirect::to('https://www.pinterest.com');
     });
+    Route::get('google', function () {
+        return Redirect::to('https://www.google.com/search?client=firefox-b-d&q=malam+mas+inti');
+    });
 });
 Route::get('/about', function () {
     return view('about');
+});
+Route::get('/contact', function () {
+    return view('contact');
 });
 Route::prefix('sc/business')->group(function () {
     Route::get('/profile/2023', function () {
