@@ -66,7 +66,7 @@
     </section>
 
     <!-- Content
-                ============================================= -->
+                    ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -789,34 +789,6 @@
 
             </div>
 
-            <div class="line mt-4"></div>
-
-            <div class="section bg-transparent mt-0 p-0 footer-stick">
-                <div class="container">
-
-                    <div class="row">
-                        <div class="col-lg-7">
-                            <img src="{!! asset('webpage/demos/construction/images/services/bottom-trust.jpg') !!}" alt="Malam Mas Inti -Bottom Trust">
-                        </div>
-                        <div class="col-lg-5 mt-4">
-                            <div class="heading-block border-bottom-0">
-                                <h2>You're in Good Hands.</h2>
-                                <span class="ls-1">Five Points that define Our Reliability.</span>
-                            </div>
-
-                            <ul class="iconlist iconlist-large iconlist-color">
-                                <li><i class="fa-solid fa-check"></i> Market Leader since 1915</li>
-                                <li><i class="fa-solid fa-check"></i> Positive Results within Deadlines</li>
-                                <li><i class="fa-solid fa-check"></i> 100% Reliability &amp; Guarantee</li>
-                                <li><i class="fa-solid fa-check"></i> Dedicated Professional Team of 500+</li>
-                                <li><i class="fa-solid fa-check"></i> Unmatched After Project Completion Support
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
         </div>
     </section><!-- #content end -->
 @endsection
