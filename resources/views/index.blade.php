@@ -1,4 +1,5 @@
 @extends('welcome')
+@section('title', 'Homepage')
 @section('content')
     <section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-75" data-loop="true">
 
@@ -65,7 +66,7 @@
     </section>
 
     <!-- Content
-    ============================================= -->
+                ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -236,7 +237,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/drawer.png') !!}"
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}"
                                         alt="Malam Mas Inti -Interiorly Designed"></a>
                             </div>
                             <div class="fbox-content">

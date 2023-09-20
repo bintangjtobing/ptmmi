@@ -35,17 +35,17 @@
 
     <!-- Document Title
  ============================================= -->
-    <title>Homepage | Malam Mas Inti</title>
+    <title>@yield('title') | PT Malam Mas Inti</title>
 
     {{-- Meta --}}
-    <meta name="og:title" property="og:title" content="Home | PT Malam Mas Inti" />
+    <meta name="og:title" property="og:title" content="@yield('title') | PT Malam Mas Inti" />
     <meta name="og:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:image" property="og:image" content="{!! asset('webpage/ptmmi/cover.php') !!}" />
     <meta name="og:description" property="og:description"
         content="PT Malam Mas Inti is a full-service construction company that specializes in residential, industrial and commercial projects. We have over 20 years of experience and a team of experienced and professional builders. We are committed to providing our clients with the highest quality construction services at competitive prices." />
-    <meta name="twitter:card" content="Home | PT Malam Mas Inti" />
-    <meta name="twitter:title" property="og:title" content="Home | PT Malam Mas Inti" />
+    <meta name="twitter:card" content="@yield('title') | PT Malam Mas Inti" />
+    <meta name="twitter:title" property="og:title" content="@yield('title') | PT Malam Mas Inti" />
     <meta name="twitter:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="twitter:type" property="og:type" content="website" />
     <meta name="twitter:image" property="og:image" content="{!! asset('webpage/ptmmi/cover.php') !!}" />
@@ -53,7 +53,7 @@
         content="PT Malam Mas Inti is a full-service construction company that specializes in residential, industrial and commercial projects. We have over 20 years of experience and a team of experienced and professional builders. We are committed to providing our clients with the highest quality construction services at competitive prices." />
     <link rel="canonical" href="{{ Request::url() }}/" />
     <link rel="shortcut icon" href="{!! asset('webpage/ptmmi/just-logo.png') !!}" type="image/png" type="image/png" sizes="64x64" />
-    <meta name="og:email" content="info@boxity.id" />
+    <meta name="og:email" content="info@malammasinti.com" />
     <meta name="og:phone_number" content="08126030120" />
     <meta name="og:latitude" content="3.573395" />
     <meta name="og:longitude" content="98.631085" />
@@ -98,7 +98,7 @@
       ============================================= -->
                         <div class="top-links">
                             <ul class="top-links-container">
-                                <li class="top-links-item"><a href="#">Locations</a>
+                                <li class="top-links-item"><a href="#">OFFICE</a>
                                     <ul class="top-links-sub-menu">
                                         <li class="top-links-item"><a
                                                 href="https://goo.gl/maps/92ipKeN8rdDrATtTA">Medan</a></li>
@@ -182,7 +182,7 @@
                                 <li class="menu-item current"><a class="menu-link" href="/">
                                         <div>Home</div>
                                     </a></li>
-                                <li class="menu-item"><a class="menu-link" href="#about-us">
+                                <li class="menu-item"><a class="menu-link" href="/about">
                                         <div>About Us</div>
                                     </a></li>
                                 <li class="menu-item"><a class="menu-link" href="#projects">
@@ -200,10 +200,29 @@
                                             </a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-item"><a class="menu-link" href="#legal">
-                                        <div>Legal</div>
-                                    </a></li>
-                                <li class="menu-item"><a class="menu-link" href="#contact">
+                                <li class="menu-item"><a class="menu-link" href="#legality">
+                                        <div>Legality</div>
+                                    </a>
+                                    <ul class="sub-menu-container">
+                                        <li class="menu-item"><a class="menu-link" href="/sc/business/profile/2023"
+                                                target="_blank">
+                                                <div>Company Profile</div>
+                                            </a></li>
+                                        <li class="menu-item"><a class="menu-link"
+                                                href="/sc/business/legal/sbu/41016" target="_blank">
+                                                <div>SBU 41016</div>
+                                            </a></li>
+                                        <li class="menu-item"><a class="menu-link"
+                                                href="/sc/business/legal/sbu/41019" target="_blank">
+                                                <div>SBU 41019</div>
+                                            </a></li>
+                                        <li class="menu-item"><a class="menu-link"
+                                                href="/sc/business/legal/pkr/06/2023" target="_blank">
+                                                <div>Pernyataan Keputusan Rapat</div>
+                                            </a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item"><a class="menu-link" href="/contact">
                                         <div>Contact</div>
                                     </a></li>
                             </ul>

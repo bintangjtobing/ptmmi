@@ -30,9 +30,26 @@ Route::prefix('/social')->group(function () {
         return Redirect::to('https://www.pinterest.com');
     });
 });
-Route::prefix('/p')->group(function () {
+Route::get('/about', function () {
+    return view('about');
 });
-
+Route::prefix('sc/business')->group(function () {
+    Route::get('/profile/2023', function () {
+        return Redirect::to('/business/profile/company_profile_2023.pdf');
+    });
+    Route::get('/legal/sk/4023062612261038', function () {
+        return Redirect::to('/business/legal/cetak_sk_4023062612261038.pdf');
+    });
+    Route::get('/legal/sbu/41016', function () {
+        return Redirect::to('/business/legal/malam_mas_inti_bg006_k.pdf');
+    });
+    Route::get('/legal/sbu/41019', function () {
+        return Redirect::to('/business/legal/malam_mas_inti_bg009_k.pdf');
+    });
+    Route::get('/legal/pkr/06/2023', function () {
+        return Redirect::to('/business/legal/pernyataan_keputusan_rapat.pdf');
+    });
+});
 // Dashboard
 Route::prefix('/v')->group(function () {
     Route::get('/login', 'dashboardController@login')->name('login');
