@@ -254,25 +254,12 @@
                                     class="alignleft"
                                     style="/*! margin-top: 8px; */ /*! padding-right: 18px; */ /*! border-right: 1px solid #4A4A4A; */max-width: 300px;padding: 10px 0;">
 
-                                <p style="padding-top: 20px;">We believe in <strong>Simple</strong>,
-                                    <strong>Creative</strong> &amp;
-                                    <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach.
-                                    Browse the amazing Features this template offers.
+                                <p style="padding-top: 20px;">PT Malam Mas Inti is a full-service construction company
+                                    that specializes in residential, industrial and commercial projects. We have over 20
+                                    years of experience and a team of experienced and professional builders. We are
+                                    committed to providing our clients with the highest quality construction services at
+                                    competitive prices.
                                 </p>
-
-                                <div class="line" style="margin: 30px 0;"></div>
-
-                                <div class="row col-mb-30">
-                                    <div class="col-lg-3 col-6 widget_links">
-                                        <ul>
-                                            <li><a href="#">Home</a></li>
-                                            <li><a href="#">About</a></li>
-                                            <li><a href="#">FAQs</a></li>
-                                            <li><a href="#">Support</a></li>
-                                            <li><a href="#">Contact</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                         </div>

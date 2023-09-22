@@ -66,7 +66,7 @@
     </section>
 
     <!-- Content
-                    ============================================= -->
+                        ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -462,12 +462,12 @@
 
             </div>
 
-            <a href="portfolio.html"
-                class="button button-3d border-bottom-0 button-full text-center text-end mb-6 fw-light font-primary"
+            <a href="/sc/business/profile/2023" target="_blank"
+                class="button button-3d border-bottom-0 mt-4 button-full text-center fw-light font-primary"
                 style="font-size: 26px;">
                 <div class="container">
-                    Would you like to Build your Dream Home with Us? <strong>Enquire Here</strong> <i
-                        class="uil uil-angle-right-b" style="top:3px;"></i>
+                    Would you like to see our company profile? <strong>Click here</strong> <i class="uil uil-angle-right-b"
+                        style="top:3px;"></i>
                 </div>
             </a>
 
