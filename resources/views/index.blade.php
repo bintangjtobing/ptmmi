@@ -66,7 +66,7 @@
     </section>
 
     <!-- Content
-                        ============================================= -->
+                                                                        ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -151,14 +151,15 @@
                             <div class="col-12">
                                 <img class="rounded-circle mx-auto w-auto mb-4" src="{!! asset('webpage/images/testimonials/1.jpg') !!}" width="64"
                                     height="64" alt="Malam Mas Inti -Customer Testimonails">
-                                <h3 class="mb-4 lh-base fw-normal font-secondary">Seamlessly Lorem, ipsum dolor sit
-                                    amet consectetur adipisicing elit. Quia rerum porro est delectus ad in vitae
-                                    neque nostrum nesciunt.</h3>
+                                <h3 class="mb-4 lh-base fw-normal font-secondary">Saya sangat puas dengan jasa konstruksi
+                                    bangunan dari PT. Malam Mas Inti. Mereka sangat profesional dan bertanggung jawab.
+                                    Pekerjaannya rapi dan sesuai dengan spesifikasi. Saya sangat merekomendasikannya kepada
+                                    siapa saja yang membutuhkan jasa konstruksi bangunan.</h3>
                             </div>
                             <div class="d-flex align-items-center justify-content-center">
                                 <div>
-                                    <h4 class="h6 mb-0 fw-medium">Alex Coman</h4>
-                                    <small class="text-white-50">Apple Inc.</small>
+                                    <h4 class="h6 mb-0 fw-medium">Andi Budiman</h4>
+                                    <small class="text-white-50">PT Bangun Jaya</small>
                                 </div>
                             </div>
                         </div>
@@ -167,14 +168,15 @@
                             <div class="col-12">
                                 <img class="rounded-circle mx-auto w-auto mb-4" src="{!! asset('webpage/images/testimonials/2.jpg') !!}"
                                     width="64" height="64" alt="Malam Mas Inti -Customer Testimonails">
-                                <h3 class="mb-4 lh-base fw-normal font-secondary">Seamlessly conceptualize
-                                    multimedia based web services for optimal human capital. Collaboratively
-                                    evisculate e-business value.</h3>
+                                <h3 class="mb-4 lh-base fw-normal font-secondary">Saya baru saja membangun rumah dengan
+                                    bantuan jasa konstruksi bangunan dari PT Malam Mas Inti. Saya sangat senang dengan
+                                    hasilnya. Rumah saya dibangun dengan cepat dan berkualitas. Harganya juga terjangkau.
+                                    Saya akan kembali menggunakan jasanya jika ada kebutuhan di masa depan.</h3>
                             </div>
                             <div class="d-flex align-items-center justify-content-center">
                                 <div>
-                                    <h4 class="h6 mb-0 fw-medium">John Coman</h4>
-                                    <small class="text-white-50">Apple Inc.</small>
+                                    <h4 class="h6 mb-0 fw-medium">Tuti Hartati</h4>
+                                    <small class="text-white-50">Customer</small>
                                 </div>
                             </div>
                         </div>
@@ -183,13 +185,15 @@
                             <div class="col-12">
                                 <img class="rounded-circle mx-auto w-auto mb-4" src="{!! asset('webpage/images/testimonials/3.jpg') !!}"
                                     width="64" height="64" alt="Malam Mas Inti -Customer Testimonails">
-                                <h3 class="mb-4 lh-base fw-normal font-secondary">Lorem, ipsum dolor sit amet
-                                    consectetur adipisicing elit. Molestias facilis ea voluptatem cum.</h3>
+                                <h3 class="mb-4 lh-base fw-normal font-secondary">Saya sangat terbantu dengan jasa
+                                    konstruksi bangunan dari PT. Malam Mas Inti. Mereka membantu saya untuk merenovasi
+                                    rumah saya yang sudah lama. Hasilnya sangat memuaskan. Rumah saya sekarang terlihat
+                                    lebih modern dan nyaman. Saya sangat berterima kasih atas bantuan mereka.</h3>
                             </div>
                             <div class="d-flex align-items-center justify-content-center">
                                 <div>
-                                    <h4 class="h6 mb-0 fw-medium">Ricky Coman</h4>
-                                    <small class="text-white-50">Apple Inc.</small>
+                                    <h4 class="h6 mb-0 fw-medium">Budi Santoso</h4>
+                                    <small class="text-white-50">Customer</small>
                                 </div>
                             </div>
                         </div>
@@ -303,7 +307,8 @@
                 <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-media pf-icons">
                     <div class="grid-inner">
                         <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/1.jpg') !!}" alt="Malam Mas Inti -The Atmosphere">
+                            <img src="{!! asset('webpage/ptmmi/projects/miniple-mmi-1.png') !!}"
+                                alt="Malam Mas Inti - PEMANCANGAN MINIPILE PT MMI-ADHI KARYA">
                             <div class="bg-overlay">
                                 <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                     <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -314,8 +319,8 @@
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3><a href="#">The Atmosphere</a></h3>
-                            <span>Chicago, USA</span>
+                            <h3><a href="#">PEMANCANGAN MINIPILE PT MMI-ADHI KARYA</a></h3>
+                            <span>Medan, ID</span>
                         </div>
                     </div>
                 </article>
@@ -323,7 +328,8 @@
                 <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-illustrations">
                     <div class="grid-inner">
                         <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/2.jpg') !!}" alt="Malam Mas Inti -Wavelength Structure">
+                            <img src="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-1.png') !!}"
+                                alt="Malam Mas Inti - Pembangunan Gardu/JPL Perlintasan Kereta Api">
                             <div class="bg-overlay">
                                 <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                                     <a href="#" class="overlay-trigger-icon bg-light text-dark"
@@ -334,128 +340,8 @@
                             </div>
                         </div>
                         <div class="portfolio-desc">
-                            <h3>Wavelength Structure</h3>
-                            <span>Madrid, Spain</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-uielements">
-                    <div class="grid-inner">
-                        <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/3.jpg') !!}" alt="Malam Mas Inti -Greenhouse Garden">
-                            <div class="bg-overlay">
-                                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                    <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                        data-hover-animate="zoomIn" data-hover-animate-out="zoomOut"
-                                        data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
-                                </div>
-                                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3>Greenhouse Garden</h3>
-                            <span>Bali, Indonesia</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
-                    <div class="grid-inner">
-                        <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/4.jpg') !!}" alt="Malam Mas Inti -Industrial Hub">
-                            <div class="bg-overlay">
-                                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                    <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                        data-hover-animate="zoomIn" data-hover-animate-out="zoomOut"
-                                        data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
-                                </div>
-                                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3>Industrial Hub</h3>
-                            <span>Beijing, China</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-media">
-                    <div class="grid-inner">
-                        <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/5.jpg') !!}" alt="Malam Mas Inti -Corporate Headquarters">
-                            <div class="bg-overlay">
-                                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                    <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                        data-hover-animate="zoomIn" data-hover-animate-out="zoomOut"
-                                        data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
-                                </div>
-                                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3>Corporate Headquarters</h3>
-                            <span>California, USA</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
-                    <div class="grid-inner">
-                        <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/6.jpg') !!}" alt="Malam Mas Inti -Space Station">
-                            <div class="bg-overlay">
-                                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                    <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                        data-hover-animate="zoomIn" data-hover-animate-out="zoomOut"
-                                        data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
-                                </div>
-                                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3>Space Station</h3>
-                            <span>Moscow, Russia</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-icons">
-                    <div class="grid-inner">
-                        <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/7.jpg') !!}" alt="Malam Mas Inti -Bent Architecture">
-                            <div class="bg-overlay">
-                                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                    <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                        data-hover-animate="zoomIn" data-hover-animate-out="zoomOut"
-                                        data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
-                                </div>
-                                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3>Bent Architecture</h3>
-                            <span>Melbourne, Australia</span>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics">
-                    <div class="grid-inner">
-                        <div class="portfolio-image">
-                            <img src="{!! asset('webpage/demos/construction/images/projects/8.jpg') !!}" alt="Malam Mas Inti -Lakeview Center">
-                            <div class="bg-overlay">
-                                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                                    <a href="#" class="overlay-trigger-icon bg-light text-dark"
-                                        data-hover-animate="zoomIn" data-hover-animate-out="zoomOut"
-                                        data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
-                                </div>
-                                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                            </div>
-                        </div>
-                        <div class="portfolio-desc">
-                            <h3>Lakeview Center</h3>
-                            <span>Auckland, New Zealand</span>
+                            <h3>Pembangunan Gardu/JPL Perlintasan Kereta Api</h3>
+                            <span>Medan, ID</span>
                         </div>
                     </div>
                 </article>
@@ -698,86 +584,42 @@
                             <div class="oc-item">
                                 <div class="entry">
                                     <div class="entry-image">
-                                        <a href="{!! asset('webpage/demos/construction/images/blog/5.jpg') !!}" data-lightbox="image"><img
-                                                src="{!! asset('webpage/demos/construction/images/blog/5.jpg') !!}"
+                                        <a href="{!! asset('webpage/ptmmi/projects/miniple-mmi-2.png') !!}" data-lightbox="image"><img
+                                                src="{!! asset('webpage/ptmmi/projects/miniple-mmi-2.png') !!}"
                                                 alt="Malam Mas Inti -Standard Post with Image"></a>
                                     </div>
                                     <div class="entry-title title-sm text-transform-none">
-                                        <h3><a href="#">Upcoming Projects in Australia</a></h3>
+                                        <h3><a href="#">Pemancangan Miniple</a></h3>
                                     </div>
                                     <div class="entry-meta">
                                         <ul>
-                                            <li>10th Feb 2021</li>
-                                            <li><a href="#comments">13 Comments</a></li>
+                                            <li>20 Sep 2023</li>
                                         </ul>
                                     </div>
                                     <div class="entry-content">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate,
-                                            asperiores quod est tenetur in.</p>
+                                        <p>Pemasangan tiang pancang yang berukuran kecil, biasanya memiliki diameter 20-30
+                                            cm dan panjang 3-12 meter.</p>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="oc-item">
                                 <div class="entry">
                                     <div class="entry-image">
-                                        <div class="fslider" data-arrows="false" data-lightbox="gallery">
-                                            <div class="flexslider">
-                                                <div class="slider-wrap">
-                                                    <div class="slide"><a href="{!! asset('webpage/demos/construction/images/blog/2.jpg') !!}"
-                                                            data-lightbox="gallery-item"><img
-                                                                src="{!! asset('webpage/demos/construction/images/blog/2.jpg') !!}"
-                                                                alt="Malam Mas Inti -Standard Post with Gallery"></a>
-                                                    </div>
-                                                    <div class="slide"><a href="{!! asset('webpage/demos/construction/images/blog/1.jpg') !!}"
-                                                            data-lightbox="gallery-item"><img
-                                                                src="{!! asset('webpage/demos/construction/images/blog/1.jpg') !!}"
-                                                                alt="Malam Mas Inti -Standard Post with Gallery"></a>
-                                                    </div>
-                                                    <div class="slide"><a href="{!! asset('webpage/demos/construction/images/blog/3.jpg') !!}"
-                                                            data-lightbox="gallery-item"><img
-                                                                src="{!! asset('webpage/demos/construction/images/blog/3.jpg') !!}"
-                                                                alt="Malam Mas Inti -Standard Post with Gallery"></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="entry-title title-sm text-transform-none">
-                                        <h3><a href="#">Real Estate just got a little more Expensive</a></h3>
-                                    </div>
-                                    <div class="entry-meta">
-                                        <ul>
-                                            <li>24th Feb 2021</li>
-                                            <li><a href="#comments">21 Comments</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="entry-content">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione,
-                                            voluptatem, dolorem animi nisi autem!</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="oc-item">
-                                <div class="entry">
-                                    <div class="entry-image">
-                                        <a href="{!! asset('webpage/demos/construction/images/blog/4.jpg') !!}" data-lightbox="image"><img
-                                                src="{!! asset('webpage/demos/construction/images/blog/4.jpg') !!}"
+                                        <a href="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-1.png') !!}" data-lightbox="image"><img
+                                                src="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-1.png') !!}"
                                                 alt="Malam Mas Inti -Standard Post with Image"></a>
                                     </div>
                                     <div class="entry-title title-sm text-transform-none">
-                                        <h3><a href="#">Global Excellence Construction Award</a></h3>
+                                        <h3><a href="#">Pembangunan Gardu/JPL Perlintasan Kereta Api</a></h3>
                                     </div>
                                     <div class="entry-meta">
                                         <ul>
-                                            <li>5th May 2021</li>
-                                            <li><a href="#comments">6 Comments</a></li>
+                                            <li>21 Sep 2023</li>
                                         </ul>
                                     </div>
                                     <div class="entry-content">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate,
-                                            asperiores quod est tenetur in.</p>
+                                        <p>Pembangunan struktur dan fasilitas yang diperlukan untuk mengamankan perlintasan
+                                            kereta api sebidang</p>
                                     </div>
                                 </div>
                             </div>
