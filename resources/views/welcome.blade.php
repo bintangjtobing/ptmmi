@@ -82,10 +82,10 @@
                         <!-- Top Social
       ============================================= -->
                         <ul id="top-social">
-                            <li><a href="#" class="h-bg-facebook"><span class="ts-icon"><i
+                            <li><a href="/social/facebook" class="h-bg-facebook"><span class="ts-icon"><i
                                             class="fa-brands fa-facebook-f"></i></span><span
                                         class="ts-text">Facebook</span></a></li>
-                            <li><a href="#" class="h-bg-instagram"><span class="ts-icon"><i
+                            <li><a href="/social/instagram" class="h-bg-instagram"><span class="ts-icon"><i
                                             class="fa-brands fa-instagram"></i></span><span
                                         class="ts-text">Instagram</span></a></li>
                         </ul><!-- #top-social end -->
