@@ -183,7 +183,7 @@
                                         <div>Home</div>
                                     </a></li>
                                 <li class="menu-item"><a class="menu-link" href="/about">
-                                        <div>About Us</div>
+                                        <div>Tentang kami</div>
                                     </a></li>
                                 <li class="menu-item"><a class="menu-link" href="#projects">
                                         <div>Projects</div>
@@ -254,11 +254,11 @@
                                     class="alignleft"
                                     style="/*! margin-top: 8px; */ /*! padding-right: 18px; */ /*! border-right: 1px solid #4A4A4A; */max-width: 300px;padding: 10px 0;">
 
-                                <p style="padding-top: 20px;">PT Malam Mas Inti is a full-service construction company
-                                    that specializes in residential, industrial and commercial projects. We have over 20
-                                    years of experience and a team of experienced and professional builders. We are
-                                    committed to providing our clients with the highest quality construction services at
-                                    competitive prices.
+                                <p style="padding-top: 20px;">PT Malam Mas Inti adalah perusahaan konstruksi dengan
+                                    layanan lengkap yang mengkhususkan diri pada proyek perumahan, industri dan
+                                    komersial. Kami memiliki pengalaman lebih dari 20 tahun dan tim pembangun yang
+                                    berpengalaman dan profesional. Kami berkomitmen untuk menyediakan layanan konstruksi
+                                    berkualitas tinggi kepada klien kami dengan harga bersaing.
                                 </p>
 
                             </div>
@@ -330,7 +330,7 @@
 
                         <div class="col-12 col-md-auto text-center text-md-end">
                             <div class="copyrights-menu copyright-links">
-                                <a href="#">Home</a>/<a href="#">About Us</a>/<a
+                                <a href="#">Home</a>/<a href="#">Tentang kami</a>/<a
                                     href="#">Team</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
                             </div>
                         </div>

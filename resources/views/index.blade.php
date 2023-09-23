@@ -10,10 +10,10 @@
                         <div class="slider-caption">
                             <div>
                                 <h2>Welcome to Malam Mas Inti</h2>
-                                <p class="d-none d-sm-block">Provides an extensive list of services to meet your
-                                    construction needs. We specialize in commercial, industrial, and civic /
-                                    non-profit projects. Our experienced team can deliver a wide variety of trades
-                                    to suit your business’s needs.
+                                <p class="d-none d-sm-block">Menyediakan daftar lengkap layanan untuk memenuhi kebutuhan
+                                    konstruksi Anda. Kami berspesialisasi dalam proyek komersial, industri, dan
+                                    sipil/nirlaba. Tim kami yang berpengalaman dapat memberikan berbagai macam perdagangan
+                                    untuk memenuhi kebutuhan bisnis Anda.
                                 </p>
                             </div>
                         </div>
@@ -26,11 +26,11 @@
                     <div class="container">
                         <div class="slider-caption slider-caption-right">
                             <div>
-                                <h2>Experience and expertise</h2>
-                                <p class="d-none d-sm-block">With a long history of successful construction
-                                    projects will have the experience and expertise to get the job done right. They
-                                    will also have a network of suppliers and subcontractors that can help them
-                                    deliver the project on time and within budget.</p>
+                                <h2>Pengalaman dan keahlian</h2>
+                                <p class="d-none d-sm-block">Dengan sejarah panjang proyek konstruksi yang sukses akan
+                                    memiliki Pengalaman dan keahlian untuk menyelesaikan pekerjaan dengan benar. Mereka juga
+                                    akan memiliki jaringan pemasok dan subkontraktor yang dapat membantu mereka
+                                    menyelesaikan proyek tepat waktu dan sesuai anggaran.</p>
                             </div>
                         </div>
                     </div>
@@ -47,10 +47,10 @@
                     <div class="container">
                         <div class="slider-caption">
                             <div>
-                                <h2>Quality of work</h2>
-                                <p class="d-none d-sm-block">We consistently delivers high-quality work will build
-                                    a reputation for excellence. This will make them more attractive to potential
-                                    clients and help them win new projects.</p>
+                                <h2>Kualitas pekerjaan</h2>
+                                <p class="d-none d-sm-block">We consistently delivers high-quality work will build a
+                                    reputation for excellence. This will make them more attractive to potential clients and
+                                    help them win new projects..</p>
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
     </section>
 
     <!-- Content
-                                                                        ============================================= -->
+                                                                                                                        ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -74,8 +74,8 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-12 col-lg">
-                            <h3 style="letter-spacing: 2px;">Call us today to see how we can help you with your
-                                next project!</h3>
+                            <h3 style="letter-spacing: 2px;">Hubungi kami hari ini untuk mengetahui bagaimana kami dapat
+                                membantu Anda dengan proyek Anda berikutnya!</h3>
                             <span>We provides an extensive list of services to meet your
                                 construction needs.</span>
                         </div>
@@ -97,11 +97,12 @@
                                 <img class="rounded" src="{!! asset('webpage/demos/construction/images/services/1.jpg') !!}" alt="Malam Mas Inti -Why choose Us?">
                             </div>
                             <div class="fbox-content px-0">
-                                <h3>Safety & Skilled Professionals.<span class="subtitle">Your Property in Good
+                                <h3>Keamanan yang terjaga & Skilled Professionals.<span class="subtitle">Your Property in
+                                        Good
                                         Hands.</span></h3>
-                                <p>We prioritizes safety will create a positive work environment for its employees
-                                    and reduce the risk of accidents. This is important in the construction
-                                    industry, where accidents can be costly and even fatal.
+                                <p>Kami mengutamakan Keamanan yang terjaga akan menciptakan lingkungan kerja yang positif
+                                    bagi karyawannya dan mengurangi risiko kecelakaan. Hal ini penting dalam industri
+                                    konstruksi, dimana kecelakaan dapat menimbulkan kerugian dan bahkan fatal.
                                 </p>
                             </div>
                         </div>
@@ -113,12 +114,11 @@
                                 <img class="rounded" src="{!! asset('webpage/images/services/1.jpg') !!}" alt="Malam Mas Inti -Effective Planning">
                             </div>
                             <div class="fbox-content px-0">
-                                <h3>On-time delivery & Effective Planning.<span class="subtitle">Construction
+                                <h3>Pengiriman tepat waktu & Perencanaan Efektif.<span class="subtitle">Construction
                                         Process Organized.</span></h3>
-                                <p>Consistently
-                                    delivers projects on time will be more reliable and trustworthy to potential
-                                    clients. This is important in the construction industry, where delays can be
-                                    costly and disruptive.</p>
+                                <p>Menyelesaikan proyek secara konsisten tepat waktu akan lebih andal dan dapat dipercaya
+                                    oleh calon klien. Hal ini penting dalam industri konstruksi, dimana penundaan dapat
+                                    menimbulkan kerugian dan mengganggu.</p>
                             </div>
                         </div>
                     </div>
@@ -129,11 +129,11 @@
                                 <img class="rounded" src="{!! asset('webpage/demos/construction/images/services/2.jpg') !!}" alt="Malam Mas Inti -Why choose Us?">
                             </div>
                             <div class="fbox-content px-0">
-                                <h3>Flexibility & Risk Management<span class="subtitle">We have got you
+                                <h3>Fleksibilitas & Manajemen Risiko<span class="subtitle">We have got you
                                         Covered.</span></h3>
-                                <p>Flexible and adaptable will be able to handle changes in the project scope or
-                                    schedule. This is important in the construction industry, where unforeseen
-                                    challenges are common.</p>
+                                <p>Fleksibel dan mudah beradaptasi akan mampu menangani perubahan ruang lingkup atau jadwal
+                                    proyek. Hal ini penting dalam industri konstruksi, dimana tantangan tak terduga sering
+                                    terjadi.</p>
                             </div>
                         </div>
                     </div>
@@ -212,40 +212,37 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/building.png') !!}"
-                                        alt="Malam Mas Inti -Concrete Developments"></a>
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/building.png') !!}" alt="Concrete Developments"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Experience and expertise</h3>
-                                <p>with a long history of successful construction projects will have the experience
-                                    and expertise to get the job done right. They will also have a network of
-                                    suppliers and subcontractors that can help them deliver the project on time and
-                                    within budget.</p>
+                                <h3>Pengalaman dan keahlian</h3>
+                                <p>Dengan sejarah panjang proyek konstruksi yang sukses akan memiliki pengalaman dan
+                                    keahlian untuk menyelesaikan pekerjaan dengan benar. Mereka juga akan memiliki
+                                    jaringan pemasok dan subkontraktor yang dapat membantu mereka menyelesaikan
+                                    proyek tepat waktu dan sesuai anggaran.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/bank.png') !!}"
-                                        alt="Malam Mas Inti -Finance Assistance"></a>
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/bank.png') !!}" alt="Finance Assistance"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Quality of work</h3>
-                                <p>consistently delivers high-quality work will build a reputation for excellence.
-                                    This will make them more attractive to potential clients and help them win new
-                                    projects.</p>
+                                <h3>Kualitas pekerjaan</h3>
+                                <p>Memberikan pekerjaan berkualitas tinggi secara konsisten akan membangun reputasi
+                                    keunggulan. Hal ini akan membuat mereka lebih menarik bagi calon klien dan
+                                    membantu mereka memenangkan proyek baru.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}"
-                                        alt="Malam Mas Inti -Interiorly Designed"></a>
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}" alt="Smart Builders"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>On-time delivery</h3>
+                                <h3>Pengiriman tepat waktu</h3>
                                 <p>consistently delivers projects on time will be more reliable and trustworthy to
                                     potential clients. This is important in the construction industry, where delays
                                     can be costly and disruptive.</p>
@@ -255,42 +252,40 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/paper-money.png') !!}"
-                                        alt="Malam Mas Inti -Cost Effective Solutions"></a>
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/paper-money.png') !!}" alt="Quality Infrastructure"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Flexibility</h3>
-                                <p>flexible and adaptable will be able to handle changes in the project scope or
-                                    schedule. This is important in the construction industry, where unforeseen
-                                    challenges are common.</p>
+                                <h3>Fleksibilitas</h3>
+                                <p>Fleksibel dan mudah beradaptasi akan mampu menangani perubahan ruang lingkup atau
+                                    jadwal proyek. Hal ini penting dalam industri konstruksi, dimana tantangan tak
+                                    terduga sering terjadi.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}"
-                                        alt="Malam Mas Inti -Smart Builders"></a>
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}" alt="Interiorly Designed"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Good communication</h3>
-                                <p>communicates effectively with its clients and project team will be more likely to
-                                    avoid problems and delays. They will also be able to build trust and rapport
-                                    with their clients, which is essential for long-term success.</p>
+                                <h3>Komunikasi yang baik dan terarah</h3>
+                                <p>Berkomunikasi secara efektif dengan klien dan tim proyek akan lebih mungkin
+                                    menghindari masalah dan penundaan. Mereka juga akan mampu membangun kepercayaan
+                                    dan hubungan baik dengan klien mereka, yang penting untuk kesuksesan jangka
+                                    panjang.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="feature-box fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/paint-brush.png') !!}"
-                                        alt="Malam Mas Inti -Quality Infrastructure"></a>
+                                <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/paint-brush.png') !!}" alt="Cost Effective Solutions"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Safety</h3>
-                                <p>prioritizes safety will create a positive work environment for its employees and
-                                    reduce the risk of accidents. This is important in the construction industry,
-                                    where accidents can be costly and even fatal.</p>
+                                <h3>Keamanan yang terjaga</h3>
+                                <p>Mengutamakan keselamatan akan menciptakan lingkungan kerja yang positif bagi
+                                    karyawannya dan mengurangi risiko kecelakaan. Hal ini penting dalam industri
+                                    konstruksi, dimana kecelakaan dapat menimbulkan kerugian dan bahkan fatal.</p>
                             </div>
                         </div>
                     </div>
@@ -299,7 +294,7 @@
             </div>
 
             <div class="section mb-0">
-                <h2 class="text-center mb-0 ls-1">Some of Our Esteemed Projects:</h2>
+                <h2 class="text-center mb-0 ls-1">Beberapa proyek kami:</h2>
             </div>
 
             <div id="portfolio" class="portfolio row grid-container g-0">
@@ -393,10 +388,11 @@
                                 <p>We have over 20 years of experience in the construction industry, licensed and
                                     insured, so you can be confident that your project is in good hands, have a team
                                     of experienced and skilled professionals who are dedicated to providing you with
-                                    the highest quality of work, offer competitive pricing and flexible payment
+                                    the highest Kualitas pekerjaan, offer competitive pricing and flexible payment
                                     terms, committed to on-time delivery and meeting your specific needs, value
                                     communication and transparency throughout the construction process, committed to
-                                    safety and sustainability, a family-owned and operated business, so you can be
+                                    Keamanan yang terjaga and sustainability, a family-owned and operated business, so you
+                                    can be
                                     sure that you are dealing with a company that cares about its customers.</p>
                                 <div class="row col-mb-30">
                                     <div class="col-sm-6 col-lg-3 text-center">
@@ -434,7 +430,7 @@
                                 <ol>
                                     <li>We believe in a strong work ethic and are committed to providing our clients
                                         with
-                                        the highest quality of work.</li>
+                                        the highest Kualitas pekerjaan.</li>
                                     <li>Our employees are dedicated and hardworking, and they are always willing to
                                         go
                                         the extra mile to get the job done.</li>
@@ -458,7 +454,7 @@
                                 tabindex="0">
                                 <p>Have a team
                                     of experienced and skilled professionals who are dedicated to providing you with
-                                    the highest quality of work.</p>
+                                    the highest Kualitas pekerjaan.</p>
                                 <div class="row col-mb-30">
                                     <div class="col-sm-6 col-md-4">
                                         <ul class="iconlist mb-0">
