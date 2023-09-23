@@ -2,7 +2,7 @@
 @section('title', 'About Us')
 @section('content')
     <!-- Page Title
-                                                                                                          ============================================= -->
+                                                                                                                                          ============================================= -->
     <section class="page-title page-title-center bg-transparent">
         <div class="container">
             <div class="page-title-row">
@@ -24,7 +24,7 @@
     </section><!-- .page-title end -->
 
     <!-- Content
-                                                                                                          ============================================= -->
+                                                                                                                                          ============================================= -->
     <section id="content">
         <div class="content-wrap">
             <div class="container">
@@ -49,107 +49,52 @@
                             data-thumbs="true">
                             <div class="flexslider">
                                 <div class="slider-wrap">
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/1.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/1.jpg') !!}" alt="Image">
+                                    <div class="slide" data-thumb="{!! asset('webpage/ptmmi/projects/miniple-mmi-1.png') !!}">
+                                        <img src="{!! asset('webpage/ptmmi/projects/miniple-mmi-1.png') !!}" alt="Image">
                                         <div class="bg-overlay">
                                             <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Government Contraction
+                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">PEMANCANGAN MINIPILE
+                                                    PT MMI-ADHI KARYA
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/2.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/2.jpg') !!}" alt="Image">
+                                    <div class="slide" data-thumb="{!! asset('webpage/ptmmi/projects/miniple-mmi-2.png') !!}">
+                                        <img src="{!! asset('webpage/ptmmi/projects/miniple-mmi-2.png') !!}" alt="Image">
                                         <div class="bg-overlay">
                                             <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Home Renovation</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/3.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/3.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Residential
-                                                    Construction</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/4.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/4.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Wooden Floor</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/5.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/5.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Repairing of Houses
+                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">PEMANCANGAN MINIPILE
+                                                    PT MMI-ADHI KARYA
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/6.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/6.jpg') !!}" alt="Image">
+                                    <div class="slide" data-thumb="{!! asset('webpage/ptmmi/projects/miniple-mmi-3.png') !!}">
+                                        <img src="{!! asset('webpage/ptmmi/projects/miniple-mmi-3.png') !!}" alt="Image">
                                         <div class="bg-overlay">
                                             <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Building Renovaion
+                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">PEMANCANGAN MINIPILE
+                                                    PT MMI-ADHI KARYA
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/7.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/7.jpg') !!}" alt="Image">
+                                    <div class="slide" data-thumb="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-1.png') !!}">
+                                        <img src="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-1.png') !!}" alt="Image">
                                         <div class="bg-overlay">
                                             <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Hightech Construction
+                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Pembangunan Gardu/JPL
+                                                    Perlintasan Kereta Api
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/8.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/8.jpg') !!}" alt="Image">
+                                    <div class="slide" data-thumb="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-2.png') !!}">
+                                        <img src="{!! asset('webpage/ptmmi/projects/gardu-jpl-pka-2.png') !!}" alt="Image">
                                         <div class="bg-overlay">
                                             <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Hardwood Flooring
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/9.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/9.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Commercial
-                                                    Construction</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/10.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/10.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Repairing Of Roof
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/11.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/11.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Home Renovation</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide" data-thumb="{!! asset('webpage/demos/construction/images/gallery/thumbs/12.jpg') !!}">
-                                        <img src="{!! asset('webpage/demos/construction/images/gallery/12.jpg') !!}" alt="Image">
-                                        <div class="bg-overlay">
-                                            <div class="bg-overlay-content justify-content-start align-items-end">
-                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Office Renovation
+                                                <div class="h4 fw-light bg-light text-dark px-3 py-2">Pembangunan Gardu/JPL
+                                                    Perlintasan Kereta Api
                                                 </div>
                                             </div>
                                         </div>
@@ -190,8 +135,7 @@
                             <div class="col-md-6">
                                 <div class="feature-box fbox-plain">
                                     <div class="fbox-icon">
-                                        <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/bank.png') !!}"
-                                                alt="Finance Assistance"></a>
+                                        <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/bank.png') !!}" alt="Finance Assistance"></a>
                                     </div>
                                     <div class="fbox-content">
                                         <h3>Quality of work</h3>
@@ -231,8 +175,7 @@
                             <div class="col-md-6">
                                 <div class="feature-box fbox-plain">
                                     <div class="fbox-icon">
-                                        <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}"
-                                                alt="Interiorly Designed"></a>
+                                        <a href="#"><img src="{!! asset('webpage/demos/construction/images/icons/traffic-cone.png') !!}" alt="Interiorly Designed"></a>
                                     </div>
                                     <div class="fbox-content">
                                         <h3>Good communication</h3>

@@ -100,8 +100,8 @@
                             <ul class="top-links-container">
                                 <li class="top-links-item"><a href="#">OFFICE</a>
                                     <ul class="top-links-sub-menu">
-                                        <li class="top-links-item"><a
-                                                href="https://goo.gl/maps/92ipKeN8rdDrATtTA">Medan</a></li>
+                                        <li class="top-links-item"><a href="https://goo.gl/maps/92ipKeN8rdDrATtTA"
+                                                target="_blank">Medan</a></li>
                                     </ul>
                                 </li>
                                 <li class="top-links-item"><a href="faqs">FAQs</a></li>
@@ -189,13 +189,13 @@
                                         <div>Projects</div>
                                     </a>
                                     <ul class="sub-menu-container">
-                                        <li class="menu-item"><a class="menu-link" href="#projects-2">
+                                        <li class="menu-item"><a class="menu-link" href="/projects/medan">
                                                 <div>Medan</div>
                                             </a></li>
-                                        <li class="menu-item"><a class="menu-link" href="#projects-3">
+                                        <li class="menu-item"><a class="menu-link" href="/projects/binjai">
                                                 <div>Binjai</div>
                                             </a></li>
-                                        <li class="menu-item"><a class="menu-link" href="#projects">
+                                        <li class="menu-item"><a class="menu-link" href="/projects/deli-serdang">
                                                 <div>Deli Serdang</div>
                                             </a></li>
                                     </ul>

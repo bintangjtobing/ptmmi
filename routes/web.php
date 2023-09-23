@@ -39,6 +39,17 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::prefix('/projects')->group(function () {
+    Route::get('/medan', function () {
+        return view('projects.medan');
+    });
+    Route::get('/binjai', function () {
+        return view('projects.binjai');
+    });
+    Route::get('/deli-serdang', function () {
+        return view('projects.deli-serdang');
+    });
+});
 Route::prefix('sc/business')->group(function () {
     Route::get('/profile/2023', function () {
         return Redirect::to('/business/profile/company_profile_2023.pdf');
