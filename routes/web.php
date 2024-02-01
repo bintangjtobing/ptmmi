@@ -52,7 +52,10 @@ Route::prefix('/projects')->group(function () {
 });
 Route::prefix('sc/business')->group(function () {
     Route::get('/profile/2023', function () {
-        return Redirect::to('/business/profile/company_profile_2023.pdf');
+        $randomKey = uniqid(); // Menghasilkan string acak
+        $newUrl = '/business/profile/company_profile_2023.pdf?v=' . $randomKey; // Menambahkan string acak ke URL
+
+        return Redirect::to($newUrl);
     });
     Route::get('/legal/sk/4023062612261038', function () {
         return Redirect::to('/business/legal/cetak_sk_4023062612261038.pdf');
